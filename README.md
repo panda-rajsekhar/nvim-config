@@ -5,6 +5,12 @@ This setup focuses on **performance, readability, and essential developer toolin
 
 ---
 
+## 📸 Preview
+
+![Neovim Setup](./Screenshot%20from%202026-03-17%2023-18-47.png)
+
+---
+
 ## ✨ Features
 
 * Modern **Lua-based configuration**
